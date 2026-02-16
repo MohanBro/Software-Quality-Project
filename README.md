@@ -2,15 +2,12 @@ This repository reflects a systematic Software Quality Management model used in 
 
 All defects, risks, and improvement activities are captured with the help of GitHub Issues and undergo a project workflow in terms of project board (To Do -> In Progress -> Review -> Done). This is a tool that replicates a formal quality governance process, in that, it provides traceability between quality attributes, defects and risk-mitigating activities.
 
-Quality Attribute
-Related Issues
-Security
-#1, #2, #3, #7
-Performance Efficiency
-#4
-Reliability
-#5
-Usability
-#6
-Maintainability
-#8, #9
+## Traceability Matrix
+
+| Quality Attribute | Related Issues |
+|-------------------|---------------|
+| Security | #1, #2, #3, #7 |
+| Performance Efficiency | #4 |
+| Reliability | #5 |
+| Usability | #6 |
+| Maintainability | #8, #9 |

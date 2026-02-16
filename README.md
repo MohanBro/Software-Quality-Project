@@ -6,8 +6,8 @@ All defects, risks, and improvement activities are captured with the help of Git
 
 | Quality Attribute | Related Issues |
 |-------------------|---------------|
-| Security | #1, #2, #3, #7 |
-| Performance Efficiency | #4 |
-| Reliability | #5 |
-| Usability | #6 |
-| Maintainability | #8, #9 |
+| Security | #2, #3, #4, #8 |
+| Performance Efficiency | #5 |
+| Reliability | #6 |
+| Usability | #7 |
+| Maintainability | #9, #10 |
